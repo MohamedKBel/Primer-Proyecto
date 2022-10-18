@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Kalam', cursive;
+}
+.my-navbar{
+    background-color: #000000;
+}
+.hero-h1{
+        text-align: left;
+        position: absolute;
+        top: 45%;
+        left: 5%;
+}
+.hero-h4{
+        
+    text-align: left;
+    position: absolute;
+    top: 50%;
+    left: 5%;
+}
+
+.hero{
+    background-image: url("../img/hero-image.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height:80vh;
+}
